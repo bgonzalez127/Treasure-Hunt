@@ -1,0 +1,68 @@
+body{
+    background-color:teal;
+}
+h1{
+    text-align:center;
+}
+
+#buttons{
+    display:flex;
+    justify-content:space-around;
+    padding:25px;
+}
+
+#firstbutton{
+    background-color:pink;
+}
+
+#secondbutton{
+    background-color:yellow;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#suprise-image{
+    display:none;
+}
+#x-marks-the-spot{
+    display:none;
+}
+#map{
+    display:none;
+}
+#dragon{
+    display:none;
+}
+#escape{
+    display:none;
+}
+#door{
+    width:100px;
+    height:150px;
+}
+#ouu{
+    display:none;
+}
+#road{
+    display:none;
+}
+#bridge1{
+    display:none;
+}
+#riddle{
+    display:none;
+}
+#riddle2{
+    display:flex;
+    justify-content:space-around;
+    display:none;
+}
+#wonn{
+    display:none;
+}
+#hands{
+    display:none;
+}
